@@ -2,3 +2,4 @@ nbproject
 .cache
 .project
 .settings
+logs/*.log
